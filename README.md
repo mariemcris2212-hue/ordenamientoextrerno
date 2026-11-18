@@ -2,6 +2,7 @@
 
 
 * **Alumnos:** Mariem Cristina García López
+  
 Diego Ortiz Morales
 
 ---
@@ -16,7 +17,7 @@ Completar la lógica de intercalación de bloques en el método `intercalarBloqu
 
 El proyecto está organizado en paquetes de Java junto con los archivos de texto auxiliares en la carpeta raíz:
 
-```text
+```
 Metodos_De_Ordenamiento/
 ├── ordenamientoexterno/
 │   └──  src/
@@ -27,7 +28,7 @@ Metodos_De_Ordenamiento/
 ├── f3.txt
 └── README.md
 
----
+```
 
 ## Requisitos para ejecutar/clonar
 
