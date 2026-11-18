@@ -79,3 +79,11 @@ Al ejecutar el programa con los archivos correctamente ubicados en la raíz del 
 Bloque intercalado con exito!
 
 Process finished with exit code 0
+
+---
+
+## Resultado generado en f3.txt
+
+36
+
+60
